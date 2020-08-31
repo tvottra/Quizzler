@@ -1,12 +1,12 @@
 # Quizzler
 
-## Our Goal
+## Goal
 
-A quiz app developed with the MVC paradigm in mind.
+An app developed with the MVC paradigm in mind.
 
-## The app
+## The App
 
-A responsive iOS-13 app that gives you 10 multiple-choice questions and tallies
+A responsive iOS-13 quiz app that gives you 10 multiple-choice questions and tallies
 and reports your score.
 
 ![App Screenshot](Documentation/app_markup.png)
